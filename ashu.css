@@ -1,0 +1,461 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.sonu
+{
+    width: 100%;
+    height: 80px;
+}
+.ajay
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px 20px 20px;
+}
+.monu span
+{
+    color: red;
+}
+.ajay ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+.ajay a
+{
+    text-decoration: none;
+    color: black;
+}
+.manoj
+{
+width: 95%;
+height: 182px;
+margin: 0px 20px 0px 30px;
+}
+.vijay
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px 10px 10px;
+    position: relative;
+}
+.sumit
+{
+    position: absolute;
+    bottom: 51px;
+    left: 210px;
+}
+.sumit a
+{
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    background-color: red;
+    padding: 5px 30px 5px 30px;
+    margin: 10px;
+}
+.venit img
+{
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+}
+.amit p
+{
+    color: red;
+    padding: 20px 0px 10px 20px;
+}
+.rahul
+{
+    width: 100%;
+    height: 600px;
+    margin-top: 20px;
+    background-color: rgb(215, 208, 199);
+}
+.mahul h1
+{
+    text-align: center;
+    padding-top: 20px;
+
+}
+.mahul hr
+{
+    width: 20px;
+    height: 5px;
+    justify-content: center;
+    background-color: red;
+}
+
+.good
+{
+    width: 90%;
+    height: 200px;
+    margin:20px 0px 10px 30px;
+}
+.ciku
+{
+    background-color: white;
+    width: 300px;
+    height: 140px;
+    border-radius: 10px;
+    margin: 90px 0px 0px 30px;
+}
+.ciku h1
+{
+    text-align: center;
+    padding-top: 50px;
+}
+.aman
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.anu h2
+{
+    text-align: center;
+    padding: 0px 0px 10px 0px;
+}
+.anu p
+{
+text-align: justify;
+padding: 0px 0px 20px 0px;
+}
+.rinku a
+{
+    background-color: red;
+    border-radius: 10px;
+    padding: 5px 20px 5px 20px;
+    margin: 20px 0px 0px 120px;
+    color: white;
+    text-decoration: none;
+}
+.aju
+{
+    width: 100%;
+    height: 200px;
+    margin:71px 0px 10px 0px;
+}
+.tajal
+{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(235, 229, 222);
+}
+.amul h1
+{
+ text-align: center;
+ padding: 20px;
+}
+.rohit
+{
+    background-color:orangered;
+    border-radius: 10px;
+    width: 350px;
+    height: 250px;
+    margin: 10px 10px 10px;
+}
+.ajit h3
+{
+    text-align: center;
+    color: white;
+    padding: 30px 0px 10px 0px;
+}
+.ajit p
+{
+    text-align: justify;
+    color: white;
+    padding: 30px 20px 10px 20px;
+}
+.pankaj
+{
+    display: flex;
+    margin-left: 50px;
+}
+.suraj
+{
+    background-color:orangered;
+    border-radius: 10px;
+    width: 350px;
+    height: 250px;
+    margin: 10px 10px 10px;
+}
+.anju
+{
+    background-color:orangered;
+    border-radius: 10px;
+    width: 350px;
+    height: 250px;
+    margin: 10px 10px 10px;
+}
+.komal
+{
+    width: 100%;
+    height: 900px;
+    background-color: rgb(215, 208, 199);
+}
+.lalit
+{
+    text-align: center;
+    padding-top: 30px;
+}
+.jetu
+{
+    width: 100%;
+    height: 377px;
+    margin-top: 30px;
+    display: flex;
+}
+.jetu1
+{
+    width: 100%;
+    height: 377px;
+    margin-top: 30px;
+    display: flex;
+}
+
+.sandeep
+{
+    width: 300px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: black;
+    margin: 10px 50px 10px 60px;
+}
+.peeu img
+{
+    width: 300px;
+    height: 200px;
+}
+.sandeep h5
+{
+
+    color: white;
+    padding: 10px 0px 10px 10px;
+}
+.sandeep p
+{
+
+    color: white;
+    padding: 10px 20px 10px 10px;
+    text-align: justify;
+}
+.alu
+{
+    width: 300px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: black;
+    margin: 10px 50px 10px 50px;
+}
+.alu h5
+{
+
+    color: white;
+    padding: 10px 0px 10px 10px;
+}
+.alu p
+{
+
+    color: white;
+    padding: 10px 20px 10px 10px;
+    text-align: justify;
+}
+.anil
+{
+    width: 300px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: black;
+    margin: 10px 50px 10px 50px;
+}
+.anil h5
+{
+
+    color: white;
+    padding: 10px 0px 10px 10px;
+}
+.anil p
+{
+
+    color: white;
+    padding: 10px 20px 10px 10px;
+    text-align: justify;
+}
+.lelu
+{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(235, 229, 222);
+}
+.asha
+{
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+.parveen
+{
+    width: 400px;
+    height: 300px;
+    background-color: orangered;
+    border-radius: 10px;
+    margin: 20px 20px 20px 20px;
+}
+.rajender
+{
+    display: flex;
+}
+.ajur p
+{
+text-align: justify;
+padding: 30px 40px 30px 40px;
+color: white;
+}
+.anjul img
+{
+    margin: 0px 20px 20px 40px;
+}
+.amer
+{
+    display: flex;
+    position: relative;
+}
+.kajal 
+{
+    color: yellow;
+    position: absolute;
+    top: 3px;
+    left: 206px;
+}
+.ok 
+{
+color: yellow;
+position: absolute;
+left: 172px;
+}
+.die
+{
+    width: 100%;
+    height: 700px;
+    background-color: rgb(215, 208, 199);
+    
+}
+.note
+{
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+}
+.india
+{
+    display: flex;
+}
+.call
+{
+    width: 450px;
+    height: 450px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 20px 40px 0px 50px;
+    position: relative;
+}
+.feel h2
+{
+    color: black;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+.mrp p
+{
+    text-align: center;
+    padding: 0px 0px 20px 0px;
+}
+.Full h4
+{
+padding: 0px 0px 20px 20px;
+}
+.brj hr
+{
+    width: 400px;
+    height: 3px;
+    margin: 0px 0px 0px 20px;
+    background-color: black;
+}
+.paper
+{
+    padding: 30px 0px 20px 20px;
+}
+.bye
+{
+    padding: 30px 0px 20px 20px;
+}
+button
+{
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 60px 5px 60px;
+    position: absolute;
+    bottom: 16px;
+    left: 144px;
+    border-color: red;
+}
+.kalu
+{
+    width: 100%;
+    height: 350px;
+    background-color: orangered;
+    position: relative;
+}
+.monti
+{
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+}
+.login h4
+{
+    color: white;
+    padding: 20px 0px 0px 30px;
+}
+.geet
+{
+    width: 200px;
+    height: 230px;
+    position: absolute;
+    bottom: 105px;
+    left: 473px;
+}
+
+.geet h5
+{
+    padding: 5px 0px 20px 20px;
+color: white;
+}
+.geet h6
+{
+    padding: 5px 0px 20px 20px;
+color: white;
+}
+.hero
+{
+
+    width: 200px;
+    height: 230px;
+    position: absolute;
+    bottom: 105px;
+    left: 800px;
+
+}
+.hero h5
+{
+    padding: 5px 0px 20px 20px;
+color: white;
+}
+.hero h6
+{
+    padding: 5px 0px 20px 20px;
+color: white;
+}

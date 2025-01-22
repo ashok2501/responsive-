@@ -1,0 +1,206 @@
+@media screen and (min-width:320px) and (max-width:570px){
+
+
+    .sonu{
+        display: none;
+        width: unset;
+        height: unset;
+    }
+    .ajay{
+        flex-direction: column;
+    }
+    .vijay
+    {
+    flex-direction: column;
+    position: unset;
+    padding: unset;
+    }
+    .sumit
+    {
+        position: unset;
+        margin: auto
+    }
+    .rahul {
+        flex-wrap: wrap;
+    }
+    .rahul{
+        height: 1000px;
+    }
+    .mahul h1
+    {
+padding-top: 170px;
+text-align: center;
+    }
+    .ciku
+{
+    width: unset;
+    height: unset;
+    margin: unset;
+}
+.ciku h1
+{
+    padding: unset;
+}
+.anu h2
+{
+    padding-top: 20px;
+}
+.anu p
+{
+    text-align: center;
+}
+    
+    .aman
+    {
+flex-direction: column;
+    }
+    .pankaj
+    {
+        flex-wrap: wrap;
+    
+    }
+    .suraj{
+        width: 200px;
+        height: 400px;
+    }
+    .ajit
+    {
+        width: 200px;
+    height: 400px; 
+    }
+ .rohit
+{
+
+
+    width: 200px;
+    height: 400px;
+}
+.anju
+{
+    width: 200px;
+    height: 400px;
+}
+.tajal
+{
+    height: 1355px;
+}
+.jetu
+{
+    flex-wrap: wrap;
+}
+.jetu1
+{
+    flex-wrap: wrap;
+}
+.alu {
+    width: 198px;
+    height: 396px;
+    margin:auto;
+    margin-top: 30px;
+}
+.anil
+{
+    width: 198px;
+    height: 396px;
+    margin: auto;
+    margin-top: 30px;
+    
+}
+.komal
+{
+    height: 1880px;
+}
+.sandeep
+{
+    width: 198px;
+    height: 397px;
+}
+.peeu img {
+    width: 198px;
+    height: 200px
+}
+
+
+    .venit img
+    {
+margin: 30px 0px 10px 50px;
+
+    }
+    .sumit
+    {
+        position: unset;
+    }
+.mahul h1
+    {
+       margin:auto;
+    }
+    .rajender 
+    {
+        flex-wrap: wrap;
+    }
+    .parveen
+    {
+        width: 400px;
+    height: 360px;
+    padding: unset;
+
+    }
+    .lelu
+    {
+        height: 1306px;
+    }
+    .india
+    {
+        flex-wrap: wrap;
+    }
+    .call
+    {
+        width: 275px;
+        height: 463px;
+        margin:auto;
+    }
+    .brj hr {
+        width: 229px;
+    }
+    button{
+    
+        bottom: 16px;
+    left: 65px;
+    }
+    .die{
+        height: 869px;
+    }
+    iframe{
+        width: 227px;
+        height: 259px;
+        padding: unset;
+        margin: unset;
+    }
+.monti{
+    margin: unset;
+    padding: 30px 30px 30px 50px;
+}
+.kalu
+{
+    width: 100%;
+    height: 350px;
+}
+.hero
+{
+
+    bottom: 38px;
+    left: 108px;
+
+}
+.geet
+{
+    bottom: 38px;
+    left: 13px;
+
+}
+    .ok 
+    {
+     left: 122px;
+     bottom: -16px;
+    }
+}
