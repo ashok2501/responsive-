@@ -38,8 +38,8 @@
   
     .mahul h1
     {
-padding: unset;
-margin: unset;
+padding: 20px 0px 0px 0px;
+margin: 20px 0px 0px 0px;
     }
     .ciku
 {
@@ -74,7 +74,7 @@ flex-direction: column;
     .pankaj
     {
         flex-direction: column;
-        margin: unset;
+        margin: 20px;
     
     }
     
@@ -103,7 +103,7 @@ flex-direction: column;
 .rohit p{
     width: unset;
     text-align: center;
-    padding: unset;
+    padding: 20px;
 }
 .anju
 {
@@ -122,7 +122,7 @@ flex-direction: column;
     flex-direction: column;
     height: unset;
     width: unset;
-    margin: unset;
+    margin: 10px;
     padding: 10px 0px 10px 0px;
 }
 .jetu1
