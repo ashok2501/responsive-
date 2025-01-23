@@ -12,30 +12,40 @@
     .vijay
     {
     flex-direction: column;
-    position: unset;
+    flex-direction: row;
+    /* position: unset; */
     padding: unset;
     }
-    .sumit
-    {
-        position: unset;
-        margin: auto
+   
+    .btn1{
+        margin-top: 100px;
     }
+   
     .rahul {
-        flex-wrap: wrap;
+        width: unset;
+        flex-direction: column;
     }
     .rahul{
-        height: 1000px;
+        width: unset;
+        height: 852px;
     }
+    .manoj
+    {
+        width: unset;
+        height: unset;
+        
+    }
+  
     .mahul h1
     {
-padding-top: 170px;
-text-align: center;
+padding: unset;
+margin: unset;
     }
     .ciku
 {
     width: unset;
     height: unset;
-    margin: unset;
+    margin: 20px;
 }
 .ciku h1
 {
@@ -43,11 +53,18 @@ text-align: center;
 }
 .anu h2
 {
-    padding-top: 20px;
+    padding:10px 0px 10px 0px;
+    margin: unset;
 }
 .anu p
 {
     text-align: center;
+    margin: 10px;
+    padding: unset;
+}
+.amit p {
+    padding: unset;
+    margin: 29px 0px 0px 0px;
 }
     
     .aman
@@ -56,119 +73,146 @@ flex-direction: column;
     }
     .pankaj
     {
-        flex-wrap: wrap;
+        flex-direction: column;
+        margin: unset;
     
     }
+    
     .suraj{
-        width: 200px;
-        height: 400px;
+        width: unset;
+        height: unset;
+        margin: auto;
+        
     }
     .ajit
     {
-        width: 200px;
-    height: 400px; 
+        width: unset;
+    height: unset;
+    padding:unset;
     }
  .rohit
 {
 
+    margin: 0 0 10px 0;
+    padding: unset;
+    width: unset;
+    text-align: center;
+    /* height: 400px; */
 
-    width: 200px;
-    height: 400px;
+}
+.rohit p{
+    width: unset;
+    text-align: center;
+    padding: unset;
 }
 .anju
 {
-    width: 200px;
-    height: 400px;
+    width: unset;
+    height: unset;
+    margin: auto;
+    margin: 10px 0px 20px 0px;
 }
 .tajal
 {
-    height: 1355px;
+    height: unset;
+    width: unset;
 }
 .jetu
 {
-    flex-wrap: wrap;
+    flex-direction: column;
+    height: unset;
+    width: unset;
+    margin: unset;
+    padding: 10px 0px 10px 0px;
 }
 .jetu1
 {
-    flex-wrap: wrap;
+    flex-direction: column;
 }
 .alu {
-    width: 198px;
-    height: 396px;
-    margin:auto;
-    margin-top: 30px;
+ width: unset;
+ height: unset;
+ margin: 15px 0px 0px 0px;
+ padding: unset;
 }
 .anil
 {
-    width: 198px;
-    height: 396px;
-    margin: auto;
-    margin-top: 30px;
-    
+  width: unset;
+  height: unset;
+    margin: 10px 0;
 }
 .komal
-{
-    height: 1880px;
+{ width: unset;
+    height: unset;
 }
 .sandeep
 {
-    width: 198px;
-    height: 397px;
+    width: unset;
+    /* height: 397px; */
+    padding: unset;
+    margin: unset;
 }
 .peeu img {
-    width: 198px;
-    height: 200px
+width: 100%;
+
+}
+.peeu{
+    width: unset;
 }
 
 
     .venit img
     {
-margin: 30px 0px 10px 50px;
+margin:unset;
 
     }
-    .sumit
-    {
-        position: unset;
-    }
+    
+    
 .mahul h1
     {
        margin:auto;
     }
     .rajender 
     {
-        flex-wrap: wrap;
+        flex-direction: column;
     }
     .parveen
     {
-        width: 400px;
-    height: 360px;
+        width: unset;
+    height: unset;
     padding: unset;
 
     }
     .lelu
     {
-        height: 1306px;
+        height: unset;
+    }
+    .tetimonials{
+        height: unset;
+    }
+    .asha{
+        padding: unset;
     }
     .india
     {
-        flex-wrap: wrap;
+    flex-direction: column;
     }
     .call
     {
-        width: 275px;
-        height: 463px;
-        margin:auto;
+        width: unset;
+        height: 435px;
     }
     .brj hr {
-        width: 229px;
+        width: unset;
+        height: unset;
     }
     button{
     
         bottom: 16px;
-    left: 65px;
+    left: 37px;
     }
     .die{
-        height: 869px;
+        height: unset;
     }
     iframe{
         width: 227px;
@@ -177,13 +221,20 @@ margin: 30px 0px 10px 50px;
         margin: unset;
     }
 .monti{
-    margin: unset;
-    padding: 30px 30px 30px 50px;
+    margin: auto;
+    padding: 20px 0;
+    width: unset;
 }
 .kalu
 {
     width: 100%;
     height: 350px;
+}
+.good
+{
+    width: unset;
+    height: unset;
+    padding: unset;
 }
 .hero
 {

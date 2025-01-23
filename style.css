@@ -42,26 +42,43 @@ margin: 0px 20px 0px 30px;
     padding: 10px 10px 10px 10px;
     position: relative;
 }
-.sumit
-{
-    position: absolute;
-    bottom: 51px;
-    left: 210px;
-}
-.sumit a
-{
-    text-decoration: none;
-    color: white;
-    border-radius: 20px;
-    background-color: red;
-    padding: 5px 30px 5px 30px;
-    margin: 10px;
-}
+
+
 .venit img
 {
     width: 150px;
     height: 150px;
     margin: 20px;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+   
+}
+.btn1 a{
+    text-decoration: none;
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    height: 40px;
+    background-color: red;
+   text-align: center;
+    border: unset;padding: 5px 10px;
+    border-radius: 10px;
+    margin-right: 20px;
+  
+}
+.btn2 a{
+    text-decoration: none;
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    height: 40px;
+    background-color: red;
+   text-align: center;
+    border: unset;padding: 5px 10px;
+    border-radius: 10px;
 }
 .amit p
 {
@@ -459,3 +476,5 @@ color: white;
     padding: 5px 0px 20px 20px;
 color: white;
 }
+
+
